@@ -1,0 +1,7 @@
+UserName : _your_ lastFM username
+Password : _your_ lastFM password
+API_KEY : lastFM API_KEY
+API_SECRET : lastFM API answer to secret question
+SPOTIPY_CLIENT_ID : _your_ spotify client ID
+SPOTIPY_CLIENT_SECRET : _your_ spotify client answer to secret question
+SPOTIPY_REDIRECT_URI : https://localhost:8888/callback - but I think you can make this anything you like, within reason
